@@ -9,7 +9,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2201,2202,2203,2204,2206
 #EXTINF: -1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-chno="8" tvg-logo="https://github.com/NyboTV/IPTV/blob/master/logos/disneychannel.png?raw=true" group-title="Vollprogramm", Disney Channel
 rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1011,1012,1013,1014
-#EXTINF: -1 tvg-id="nickjr.de" tvg-name="Nick" tvg-chno="9" tvg-logo="https://github.com/NyboTV/IPTV/blob/master/logos/nickelodeon.png?raw=true" group-title="Vollprogramm", Nick
+#EXTINF: -1 tvg-id="nick.de" tvg-name="Nick" tvg-chno="9" tvg-logo="https://github.com/NyboTV/IPTV/blob/master/logos/nickelodeon.png?raw=true" group-title="Vollprogramm", Nick
 rtsp://192.168.178.1:554/?avm=1&freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,441,442,443,446
 #EXTINF: -1 tvg-id="superrtl.de" tvg-name="Super RTl" tvg-chno="10" tvg-logo="https://github.com/NyboTV/IPTV/blob/master/logos/superrtl.png?raw=true" group-title="Vollprogramm", SUPER RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,1501,1500,1502,1504,1506,1507,1508
