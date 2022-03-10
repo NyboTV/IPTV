@@ -2,15 +2,12 @@
 #EXTINF:0,1-2-3.tv
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1101,1102,1104
-
-#EXTINF:0 tvg-name="BBC World News (eng)FICKEN" tvg-id="bbc.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/daserste.png",Das Erste
+#EXTINF:0,BBC World News (eng)
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,401,402
-
 #EXTINF:0,TV 5 Monde (fre)
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,451,452,454
-
 #EXTINF:0,NITRO
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,981,980,982,984,986,987,988
